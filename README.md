@@ -1,4 +1,4 @@
-# Amrit-ai v2 (Release-ready ZIP)
+# Amrit-ai v2 
 This package is a release-ready example of the **Amrit-ai** integrated self-maintaining system.
 It includes:
 - KnowledgeBase (JSON persistence + backups)
