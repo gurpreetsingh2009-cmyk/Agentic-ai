@@ -1,4 +1,4 @@
-# Amrit-ai v2 
+# Amrit-ai v2 multiagentic
 This package is a release-ready example of the **Amrit-ai** integrated self-maintaining system.
 It includes:
 - KnowledgeBase (JSON persistence + backups)
@@ -6,7 +6,8 @@ It includes:
 - SelfAnalysisSystem (health report)
 - SelfUpdateSystem (GitHub Releases based updater skeleton)
 - SelfCodeGenerator (simple auto-generation of python/web files)
-- # 🤖 Amrit-ai: Integrated Self-Maintaining System
+- 
+- # 🤖 Amrit-ai v2 :multi agentic Integrated Self-Maintaining System
 
 Amrit-ai ਇੱਕ ਅਜਿਹਾ ਪ੍ਰੋਜੈਕਟ ਹੈ ਜੋ ਆਪਣੇ ਆਪ ਨੂੰ ਸੰਭਾਲਣ, ਰਿਪੇਅਰ ਕਰਨ ਅਤੇ ਅਪਡੇਟ ਕਰਨ ਦੀ ਸਮਰੱਥਾ ਰੱਖਦਾ ਹੈ। ਇਹ ਸਿਸਟਮ ਆਟੋਮੇਸ਼ਨ ਅਤੇ ਏਜੰਟਿਕ ਆਈਡੀਆ 'ਤੇ ਅਧਾਰਤ ਹੈ।
 
@@ -22,9 +23,10 @@ Amrit-ai ਇੱਕ ਅਜਿਹਾ ਪ੍ਰੋਜੈਕਟ ਹੈ ਜੋ ਆਪ
 
 ### 1. ਵਾਤਾਵਰਣ ਤਿਆਰ ਕਰੋ (Create Virtual Environment)
 ```bash 2. ਲਾਇਬ੍ਰੇਰੀਆਂ ਇੰਸਟਾਲ ਕਰੋ
+
 pip install -r requirements.txt
 
-python -m venv venv
+" python -m venv venv
 source venv/bin/activate  # Windows ਲਈ: venv\Scripts\activate
 
 
